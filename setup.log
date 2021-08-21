@@ -1,0 +1,10 @@
+[InstallShield Silent]
+Version=v7.00
+File=Log File
+[ResponseResult]
+ResultCode=0
+[Application]
+Name=RICOH Media Driver ver.2.07.01.01
+Version=2.07.01.01
+Company=RICOH
+Lang=0009

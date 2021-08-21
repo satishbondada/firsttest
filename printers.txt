@@ -1,0 +1,238 @@
+Microsoft (R) Windows Script Host Version 5.8
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+Server name 
+Printer name Send To OneNote 2016
+Share name 
+Driver name Send to Microsoft OneNote 16 Driver
+Port name nul:
+Comment 
+Location 
+Print processor winprint
+Data type RAW
+Parameters 
+Attributes 576
+Priority 1
+Default priority 0
+Average pages per minute 0
+Printer status Idle 
+Extended printer status Unknown 
+Detected error state Unknown 
+Extended detected error state Unknown 
+
+Server name 
+Printer name Microsoft XPS Document Writer
+Share name 
+Driver name Microsoft XPS Document Writer
+Port name XPSPort:
+Comment 
+Location 
+Print processor winprint
+Data type RAW
+Parameters 
+Attributes 576
+Priority 1
+Default priority 0
+Average pages per minute 0
+Printer status Idle 
+Extended printer status Unknown 
+Detected error state Unknown 
+Extended detected error state Unknown 
+
+Server name 
+Printer name Fax
+Share name 
+Driver name Microsoft Shared Fax Driver
+Port name SHRFAX:
+Comment 
+Location 
+Print processor winprint
+Data type RAW
+Parameters 
+Attributes 16448
+Priority 1
+Default priority 0
+Average pages per minute 0
+Printer status Idle 
+Extended printer status Unknown 
+Detected error state Unknown 
+Extended detected error state Unknown 
+
+Server name 
+Printer name \\in2prdvps01\BLR-SSMFP07
+Share name BLR-SSMFP07
+Driver name Canon iR-ADV C3320 UFR II
+Port name 10.152.48.22
+Comment Second Floor South Wing Near RANCHI Conference Room
+Location RANCHI Conference Room
+Print processor winprint
+Data type RAW
+Parameters 
+Attributes 536
+Priority 1
+Default priority 0
+Average pages per minute 0
+Printer status Idle 
+Extended printer status Unknown 
+Detected error state Unknown 
+Extended detected error state Unknown 
+
+Server name 
+Printer name \\in2prdvps01\BLR-SWMFP06
+Share name BLR-SWMFP06
+Driver name Canon iR-ADV C2220/2230 UFR II
+Port name 10.152.48.21
+Comment Second Floor West Wing Near RAIPUR Conference Room
+Location Next to RAIPUR Conference Room
+Print processor winprint
+Data type RAW
+Parameters 
+Attributes 536
+Priority 1
+Default priority 0
+Average pages per minute 0
+Printer status Idle 
+Extended printer status Unknown 
+Detected error state Unknown 
+Extended detected error state Unknown 
+
+Server name 
+Printer name \\J1018546WIN7DT\ZDesigner ZM400 200 dpi (ZPL)
+Share name ZDesigner ZM400 200 dpi (ZPL)
+Driver name ZDesigner ZM400 200 dpi (ZPL)
+Port name USB001
+Comment 
+Location 
+Print processor winprint
+Data type RAW
+Parameters 
+Attributes 2588
+Priority 1
+Default priority 0
+Average pages per minute 0
+Printer status Idle 
+Extended printer status Unknown 
+Detected error state Unknown 
+Extended detected error state Unknown 
+
+Number of local printers and connections enumerated 6
+Microsoft (R) Windows Script Host Version 5.8
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+Nombre de servidor 
+Nombre de impresora Send To OneNote 2016
+Nombre del recurso compartido 
+Nombre de controlador Send to Microsoft OneNote 16 Driver
+Nombre del puerto nul:
+Comentario 
+Ubicaci¢n 
+Procesador de impresi¢n winprint
+Tipo de datos RAW
+Par metros 
+Atributos 576
+Prioridad 1
+Prioridad predeterminada 0
+N£mero medio de p ginas por minuto 0
+Estado de la impresora Inactivo 
+Estado de impresora extendido Desconocido 
+Estado de error detectado Desconocido 
+Estado de error detectado extendido Desconocido 
+
+Nombre de servidor 
+Nombre de impresora Microsoft XPS Document Writer
+Nombre del recurso compartido 
+Nombre de controlador Microsoft XPS Document Writer
+Nombre del puerto XPSPort:
+Comentario 
+Ubicaci¢n 
+Procesador de impresi¢n winprint
+Tipo de datos RAW
+Par metros 
+Atributos 576
+Prioridad 1
+Prioridad predeterminada 0
+N£mero medio de p ginas por minuto 0
+Estado de la impresora Inactivo 
+Estado de impresora extendido Desconocido 
+Estado de error detectado Desconocido 
+Estado de error detectado extendido Desconocido 
+
+Nombre de servidor 
+Nombre de impresora Fax
+Nombre del recurso compartido 
+Nombre de controlador Microsoft Shared Fax Driver
+Nombre del puerto SHRFAX:
+Comentario 
+Ubicaci¢n 
+Procesador de impresi¢n winprint
+Tipo de datos RAW
+Par metros 
+Atributos 16448
+Prioridad 1
+Prioridad predeterminada 0
+N£mero medio de p ginas por minuto 0
+Estado de la impresora Inactivo 
+Estado de impresora extendido Desconocido 
+Estado de error detectado Desconocido 
+Estado de error detectado extendido Desconocido 
+
+Nombre de servidor 
+Nombre de impresora \\in2prdvps01\BLR-SSMFP07
+Nombre del recurso compartido BLR-SSMFP07
+Nombre de controlador Canon iR-ADV C3320 UFR II
+Nombre del puerto 10.152.48.22
+Comentario Second Floor South Wing Near RANCHI Conference Room
+Ubicaci¢n RANCHI Conference Room
+Procesador de impresi¢n winprint
+Tipo de datos RAW
+Par metros 
+Atributos 536
+Prioridad 1
+Prioridad predeterminada 0
+N£mero medio de p ginas por minuto 0
+Estado de la impresora Inactivo 
+Estado de impresora extendido Desconocido 
+Estado de error detectado Desconocido 
+Estado de error detectado extendido Desconocido 
+
+Nombre de servidor 
+Nombre de impresora \\in2prdvps01\BLR-SWMFP06
+Nombre del recurso compartido BLR-SWMFP06
+Nombre de controlador Canon iR-ADV C2220/2230 UFR II
+Nombre del puerto 10.152.48.21
+Comentario Second Floor West Wing Near RAIPUR Conference Room
+Ubicaci¢n Next to RAIPUR Conference Room
+Procesador de impresi¢n winprint
+Tipo de datos RAW
+Par metros 
+Atributos 536
+Prioridad 1
+Prioridad predeterminada 0
+N£mero medio de p ginas por minuto 0
+Estado de la impresora Inactivo 
+Estado de impresora extendido Desconocido 
+Estado de error detectado Desconocido 
+Estado de error detectado extendido Desconocido 
+
+Nombre de servidor 
+Nombre de impresora \\J1018546WIN7DT\ZDesigner ZM400 200 dpi (ZPL)
+Nombre del recurso compartido ZDesigner ZM400 200 dpi (ZPL)
+Nombre de controlador ZDesigner ZM400 200 dpi (ZPL)
+Nombre del puerto USB001
+Comentario 
+Ubicaci¢n 
+Procesador de impresi¢n winprint
+Tipo de datos RAW
+Par metros 
+Atributos 2588
+Prioridad 1
+Prioridad predeterminada 0
+N£mero medio de p ginas por minuto 0
+Estado de la impresora Inactivo 
+Estado de impresora extendido Desconocido 
+Estado de error detectado Desconocido 
+Estado de error detectado extendido Desconocido 
+
+N£mero de impresoras y conexiones locales enumeradas 6
