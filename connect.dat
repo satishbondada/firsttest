@@ -1,0 +1,35 @@
+MYDEVWRK                 J1009788WIN7LT 3122131220MYDEVWRK                                             
+DEVWORK                  J1009788WIN7LT 4730247301DEVWORK                                             
+EP20132X                 FLADEVORA1     3740237401MOJO10                                             
+EP20122X                 FLADEVORA1     3729237291MOJO10                                             
+CO20122X                 FLADEVORA1     3743237431MOJO10                                             
+DEVwork                  FL1NPDVWINVM70 4730247301VL47300                                             
+DEVSQL 20122X            FLADEVSQL1     4729247291SQ20122X                                             
+AUTO2013                 FL1NPDWINVM01  3112631127AUTO2013                                             
+EPK20122X                FLAQUASQLVM01  3178331782EPK20122X                                             
+20132X                   FL1NPDVWINVM03 3166931668VL31667                                             
+                                             
+20132X_LocalQa           IN2NPDVDCOM01  3166931668VL31667                                             
+201324                   FL1NPDVWINVM03 3115031151VL31152                                             
+20141x                   FL1NPDVWINVM03 3111731118VL31119                                             
+20122X                   FLAQUASQLVM01  3178331782VL31781                                             
+201410x_DEV              FLADEVSQL1     4749247491VL47490                                             
+2014100                  FL1NPDVWINVM03 3112831129VL31130                                             
+2014100_Auto             FL1NPDWINVM01  3112631127VL31128                                             
+CMCODE                   FLAQUASQLVM01  3172831729CMVL                                             
+                                             
+Support_2014.1.x         FLASUPAPPVM03  3230432204VL32104                                             
+SUPPORT_20132X           FLASUPAPPVM01  3131731217VL31117                                             
+20132x _auto             FL1NPDVWINVM03 3116031161VL31162                                             
+TIPF                     FL1NPDVWINVM72 3111331114VL31115                                             
+DEVwork_old              FL1NPDVWINVM69 4730247301VL47300                                             
+2013.2.x_LOCAL           IN2NPDVDCOM01  4740247401VL47400                                             
+DEVwork_Local            IN2NPDVDCOM02  4730247301VL47300                                             
+2017.1.x_QA              FL1NPDVWINVM72 3114531146VL31142                                             
+DEV_Local                IN2NPDVDCOM02  4730247301VL47300                                             
+20141x_Local             IN2NPDVDCOM01  4749247491VL47490                                             
+20141x_Loc_Tok           IN2NPDVDCOM01  4789147892VL47890                                             
+TIPF_LOCAL               IN2NPDVDCOM02  3111331114VL31115                                             
+20141x_QA                IN2NPDVDCOM01  3111731118VL31119                                             
+DEV_TOK_LOC              IN2NPDVDCOM02  4761247611VL47610                                             
+EMV_LOC_TEST             IN2NPDVDCOM02  3112131122VL31120
